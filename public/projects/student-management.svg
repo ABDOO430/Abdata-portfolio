@@ -1,0 +1,21 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="url(#gradient2)"/>
+  <rect x="50" y="60" width="300" height="180" fill="white" opacity="0.1" rx="10"/>
+  <rect x="70" y="80" width="260" height="30" fill="white" opacity="0.3" rx="5"/>
+  <rect x="70" y="120" width="120" height="20" fill="white" opacity="0.2" rx="3"/>
+  <rect x="210" y="120" width="120" height="20" fill="white" opacity="0.2" rx="3"/>
+  <rect x="70" y="150" width="120" height="20" fill="white" opacity="0.2" rx="3"/>
+  <rect x="210" y="150" width="120" height="20" fill="white" opacity="0.2" rx="3"/>
+  <rect x="70" y="180" width="120" height="20" fill="white" opacity="0.2" rx="3"/>
+  <rect x="210" y="180" width="120" height="20" fill="white" opacity="0.2" rx="3"/>
+  <circle cx="90" cy="90" r="8" fill="white" opacity="0.4"/>
+  <circle cx="120" cy="90" r="8" fill="white" opacity="0.4"/>
+  <circle cx="150" cy="90" r="8" fill="white" opacity="0.4"/>
+  <text x="200" y="40" text-anchor="middle" fill="white" font-size="18" font-weight="bold">Student Management</text>
+  <defs>
+    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#11998e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38ef7d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

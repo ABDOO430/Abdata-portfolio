@@ -1,46 +1,99 @@
-# Getting Started with Create React App
+# Abdeta Bayissa - Personal Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive personal portfolio website built with React and TypeScript.
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
+This portfolio showcases the work and skills of Abdeta Bayissa, a 3rd year Computer Science student at Madda Walabu University with a passion for programming and web development.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
+- **Modern UI**: Clean and professional design with smooth animations
+- **Interactive Components**: Dynamic navigation, skill progress bars, and contact form
+- **Project Showcase**: Display of current and planned projects
+- **Contact Form**: Functional contact form for inquiries
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Sections
 
-### `npm test`
+1. **Hero Section**: Introduction and call-to-action
+2. **About**: Personal background and education information
+3. **Skills**: Technical skills with proficiency levels
+4. **Projects**: Portfolio of completed and ongoing projects
+5. **Contact**: Contact form and social media links
+6. **Footer**: Additional information and links
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- React 18
+- TypeScript
+- CSS3 with modern features
+- Responsive Grid Layout
+- CSS Animations
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Node.js (version 14 or higher)
+- npm or yarn
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Clone the repository
+```bash
+git clone <repository-url>
+cd portfolio
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Install dependencies
+```bash
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+3. Start the development server
+```bash
+npm start
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
-## Learn More
+### Available Scripts
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- `npm start`: Runs the app in development mode
+- `npm run build`: Builds the app for production
+- `npm test`: Launches the test runner
+- `npm run eject`: Removes the single build dependency
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Customization
+
+To customize this portfolio for your own use:
+
+1. Update personal information in the components
+2. Replace project data with your own projects
+3. Update skills and proficiency levels
+4. Add your own contact information
+5. Update social media links
+6. Replace placeholder images with your own
+
+## Deployment
+
+To deploy this portfolio:
+
+1. Build the project:
+```bash
+npm run build
+```
+
+2. Deploy the `build` folder to your hosting service of choice (Netlify, Vercel, GitHub Pages, etc.)
+
+## Contact
+
+**Abdeta Bayissa**
+- Email: abdeta.bayissa@example.com
+- University: Madda Walabu University
+- Program: Computer Science (3rd Year)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
